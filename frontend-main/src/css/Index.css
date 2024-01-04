@@ -1,0 +1,28 @@
+.conteinerPrincipal{
+    position: absolute;
+    left: 10%;
+    top: 5%;
+    right: 10%;
+    transition: translate (-50%, -50%);
+    border: 1px solid rgb(44, 44, 245);
+    padding: 20px;
+    background-color: white;
+}
+
+.conteinerSecundario{
+    text-align: center;
+    size: 10%;
+}
+
+.col-sm-6 .card .card-body{
+    padding: 20px;
+    text-align: left;
+}
+
+.btn-group-header{
+    padding: 20px;
+}
+div[class="row col"]{
+    text-align: center;
+
+}

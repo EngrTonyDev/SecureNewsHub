@@ -1,0 +1,36 @@
+
+.categories {
+    overflow-x: auto;
+}
+
+.categories .category {
+    white-space: nowrap;
+}
+.categories .category:hover {
+    cursor: pointer;
+    background-color: rgba(255, 193, 7, 0.541) !important;
+}
+
+.categories .category.active {
+    cursor: default;
+    background-color: rgb(204, 154, 6) !important;
+    ;
+}
+
+.tags {
+    overflow-x: auto;
+}
+
+.tags .tag {
+    white-space: nowrap;
+}
+
+.tags .tag:hover {
+    cursor: pointer;
+    background-color: rgba(187, 187, 187, 0.541) !important;
+}
+
+.tags .tag.active {
+    cursor: default;
+    background-color: #6c757d!important
+}
