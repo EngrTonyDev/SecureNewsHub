@@ -23,5 +23,5 @@ Follow these steps to get started with SecureNewsHub:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/joetony/SecureNewsHub.git>
    cd SecureNewsHub
